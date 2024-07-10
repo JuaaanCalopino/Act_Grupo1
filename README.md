@@ -1,2 +1,2 @@
-# Act_Grupo1
+# Actividad_Grupo1
 Trabajo laberinto en C
